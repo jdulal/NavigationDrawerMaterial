@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#346eb5</color>
+    <color name="colorPrimaryDark">#295993</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSubHeading">#007236</color>
+    <color name="colorMenu">#e7067e</color>
+    <color name="colorMenuList">#505050</color>
+    <color name="colorIconColor">#919191</color>
+    <color name="colorGradientStart">#66FFFFFF</color>
+    <color name="colorGradientEnd">#d9d9d9</color>
+</resources>

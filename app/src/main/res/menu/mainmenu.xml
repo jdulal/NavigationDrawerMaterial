@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home" android:title="Home" android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/inbox" android:title="Inbox" android:icon="@drawable/icon_inbox"/>
+    <item android:id="@+id/starred" android:title="Starred" android:icon="@drawable/icon_starred"/>
+    <item android:id="@+id/sent" android:title="Sent" android:icon="@drawable/icon_sent"/>
+    <item android:id="@+id/trash" android:title="Trash" android:icon="@drawable/icon_delete"/>
+    <item android:id="@+id/spam" android:title="Spam" android:icon="@drawable/icon_spam"/>
+</menu>
